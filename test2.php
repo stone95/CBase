@@ -24,14 +24,14 @@
         ?>
         <table>
             <tr>
-                <th>Customer Name</th>
-                <th>Credit Limit</th>
+                <th>Name</th>
+                <th>Number of Rounds</th>
             </tr>
             <?php while ($r = $q->fetch()): ?>
                 <tr>
                     <td><?php echo $r['name'] ?></td>
-                    <td><?php echo '$' . number_format($r['funding_rounds'], 2) ?> 
-                    </td>
+                    <td><?php echo $r['funding_rounds'] ?></td>
+                    <td><?php echo '$' . number_format($r['raised_amount_usd'], 2) ?> </td>
                 </tr>
             <?php endwhile; ?>
         </table>
