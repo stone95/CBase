@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>PHP MySQL Stored Procedure Demo 1</title>
+        <title>PHP MySQL Stored Procedure Demo with Updates</title>
         <link rel="stylesheet" href="css/table.css" type="text/css" />
     </head>
     <body>
