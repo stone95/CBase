@@ -1,0 +1,19 @@
+RFC: Your Title
+Problem Statement
+Summarize the problem you are solving.
+
+Duration
+The date on which commenting period will end and decisions made. Extensions beyond this date should also be included here.
+
+Proposers
+Include the Github usernames for all squad members who contributed to this RFC.
+
+Current State
+What is the current solution? In what ways does it fall short?
+
+Proposal
+Detailed proposal of the solution.
+
+Resolution
+Should be one of: DRAFT, ACCEPTED, DENIED, PAUSED. If applicable, also include links to repos where work is being done.
+
