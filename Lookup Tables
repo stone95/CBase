@@ -1,6 +1,7 @@
-RFC: Your Title
+RFC: Lookup Tables with Foriegn Key Contraints
+
 Problem Statement
-Summarize the problem you are solving.
+The lack of lookup tables with fo
 
 Duration
 The date on which commenting period will end and decisions made. Extensions beyond this date should also be included here.
